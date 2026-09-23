@@ -536,11 +536,6 @@ Only scan or test wireless networks and devices when you have appropriate author
 
 ## Author
 
-**Piper**
+**Piper Lovejoy - Mr.PMOSH**
 
 **BlackWire v6.1**
-
-```text
-RF intelligence in a little box.
-Because apparently carrying a laptop everywhere wasn't inconvenient enough.
-```
